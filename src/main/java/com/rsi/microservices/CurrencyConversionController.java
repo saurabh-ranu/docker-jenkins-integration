@@ -14,7 +14,7 @@ public class CurrencyConversionController {
 	
 	@GetMapping("spring-docker/welcome")
 	public String convertCurrency() {
-		return "hello world";
+		return "hello world Test CI/CD";
 		}
 	
 	
